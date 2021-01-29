@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Natalie.
+### Hi there 👋 You can call me **Natalie**. 
+The pronouns are [she/her](https://pronoun.is/she).
 
 Currently, I'm curious about Go and Kubernetes.
 
