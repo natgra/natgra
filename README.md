@@ -1,5 +1,8 @@
 ### Hi there 👋 You can call me **Natalie**. 
-The pronouns are [she/her](https://pronoun.is/she).
+
+🌈 My pronouns are [she/her](https://pronoun.is/she).
+
+👩🏻‍💻 I'm working as Software Engineer in the Automotive Industry.
 
 Currently, I'm curious about Go and Kubernetes.
 
