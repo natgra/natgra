@@ -1,9 +1,19 @@
-### Hi there 👋 You can call me **Natalie**. 
+## Hi there 👋 You can call me **Natalie**
 
-🌈 My pronouns are [she/her](https://pronoun.is/she).
+* 👩🏻‍💻 I'm working as Software Engineer in the Automotive Industry.
+* ⏮️ Previously worked as Electronics Technician.
+* 🌈 My pronouns are [she/her](https://pronoun.is/she).
+* 📖 I'm curious about Go and Kubernetes.
 
-👩🏻‍💻 I'm working as Software Engineer in the Automotive Industry.
+<img align="left" height="100" src="https://github.com/ashleymcnamara/gophers/blob/master/WonderWomanGopher.png" />
 
-Currently, I'm curious about Go and Kubernetes.
+---
+### Languages & Tools
 
-<a href="url"><img src="https://github.com/ashleymcnamara/gophers/blob/master/WonderWomanGopher.png" align="left" height="100"></a> 
+<img align="left" alt="Go" width="32px" src="https://github.com/github/explore/raw/master/topics/go/go.png"/>
+<img align="left" alt="Kubernetes" width="32px" src="https://github.com/github/explore/raw/master/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Docker" width="32px" src="https://github.com/github/explore/raw/master/topics/docker/docker.png" />
+<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"/>
+<img align="left" alt="Spring-Boot" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"/>
+
+
