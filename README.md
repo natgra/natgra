@@ -9,6 +9,8 @@
 
 <img align="left" height="100" src="https://github.com/ashleymcnamara/gophers/blob/master/WonderWomanGopher.png"/>
 
+<br />
+
 ### Languages & Tools
 
 <img align="left" style="padding-right: 12px" alt="Go" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"/>
