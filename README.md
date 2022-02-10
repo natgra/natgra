@@ -19,6 +19,6 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/natalie-grasser)
 
-🤔 might start a blog soon
+<!-- 🤔 might start a blog soon -->
 
 <!-- 🌐 My Website [nataliegrasser.com](https://www.nataliegrasser.com) -->
