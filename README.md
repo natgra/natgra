@@ -15,7 +15,7 @@
   <img height="100" align="left" alt="WonderWoman Gopher" src="https://github.com/ashleymcnamara/gophers/blob/master/WonderWomanGopher.png"/>
 </p>
 
-💼 [LinkedIn](https://www.linkedin.com/in/natalie-grasser)
+💼 [LinkedIn](https://www.linkedin.com/in/nataliegrasser)
 
 <!-- 🤔 might start a blog soon -->
 
