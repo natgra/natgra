@@ -2,13 +2,12 @@
 
 ## My name is **Natalie**
 
-* 👩🏻‍💻 I'm working as Software Engineer in the Automotive Industry.
+* 👩🏻‍💻 Infrastructure Software Engineer & Scrum Master in the Automotive Industry 
 * ⏮️ Previously worked as Electronics Technician.
 * 🌈 My pronouns are [she/her](https://pronoun.is/she).
 * 👷‍♀️ I write Infrastructure as Code with Terraform.
 * ☕ My backend services are mainly written in Java and Python.
-* 🌱 Curious about Go, Kubernetes, and DevOps topics.
-
+* 🌱 Curious about Machine Learning & AI
 
 ## Talk to me
 
